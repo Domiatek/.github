@@ -27,7 +27,7 @@ Construimos productos digitales propios y soluciones a medida para clientes.
 
 ### Infraestructura
 
-[domiatek-core](https://github.com/Domiatek/domiatek-core) — Workflows reutilizables, plantillas de issues y documentación de agencia.
+[Domiatek](https://github.com/Domiatek/Domiatek) — Workflows reutilizables, plantillas de issues, convenciones y documentación de agencia.
 
 ---
 
